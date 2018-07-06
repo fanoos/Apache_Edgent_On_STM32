@@ -1,5 +1,5 @@
 # Description of Project
-We use Apache Edgent to real-time analytics on the continuous streams of data coming from Environmental expansion board (X-Nucleo-IKS01A2) connected on STM32F401 Nucleo-64.
+We use Apache Edgent to real-time analytics on the continuous streams of data coming from Environmental expansion board (X-Nucleo-IKS01A2) connected on STM32F401 Nucleo-64.Finally,send events from an Edgent application to the Watson IoT platform.
 
 # What is Edge Analytics?
 Edge analytics is the collection, processing, and analysis of data at the edge of a network either at or close to a sensor, a network switch or some other connected device.
