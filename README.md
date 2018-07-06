@@ -17,19 +17,19 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <b>Connect To Sensor</b>:
 <ul>
 <li>Configure STM32 to connect and use Expansion Board.</li>
-<li>Check heart rate value and sends immediate alerts (Alarm,Call,SMS)</li>
+<li>Using STM32CubeMX and Mbed Software</li>
 </ul>
 
 <b>Collect Data</b>:
 <ul>
-<li>Store Data in the Cloud (Firebase Realtime Database)</li>
-<li>Make Heart Rate Report Base on Last Hour|Night|Week</li>
+<li>Serial port - capture raw data in COM port</li>
+<li>Create Apache Edgent Sensor class</li>
 </ul>
 
-<b>Settings</b>:
+<b>Edgent application</b>:
 <ul>
-<li>Child Profile</li>
-<li>Patient Care Attendant Profile</li>
+<li>Create Edgent application</li>
+<li>Reading data from sensors and performing analytics on the data</li>
 </ul>
 
 # Architecture and Technology
