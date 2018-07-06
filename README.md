@@ -56,33 +56,31 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <li>Version 1.2.0-incubating</li>
 <li>supported on Java 8 SE</li>
 </ul></td>
-<td><img src="https://edgent.apache.org/img/apache_logo.png" width="200"/>
+<td><img src="https://edgent.apache.org/img/apache_logo.png" width="400"/>
 </td>
 <td>
-<h5>STM32F401</h5>
+<h5>STM32</h5>
 <ul>
-<li>Firebase Realtime Database (Data is stored as JSON and synchronized in realtime to every connected client) </li>
-<li>Firebase Authentication (Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices)</li>
-<li>Cloud Storage</li>
+<li>STM32F401 microcontrollers</li>
+<li>Performance of Cortex®-M4 core</li>
+<li>Running at 84 MHz</li>
 </ul>
-<td><img src="https://percepio.com/wp-content/uploads/2015/08/stm32generic.png" width="300"/></td>
+<td><img src="https://percepio.com/wp-content/uploads/2015/08/stm32generic.png" width="400"/></td>
 </tr>
 <tr>
-<td><h5>Scichart</h5>
+<td><h5>RXTX</h5>
 <ul>
-<li>
-Realtime Graphing Solution</li>
-<li>LineChart</li>
+<li>x64 Binaries</li>
+<li>Version RXTX-2-2-20081207</li>
 </ul></td>
 <td><img src="http://rxtx.qbang.org/wiki/skins/common/images/wikii.png" width="400" height="50"/>
 </td>
 <td>
-<h5>Eclipse</h5>
+<h5>Eclipse IDE</h5>
 <ul>
-<li>Bluetooth LE Technology</li>
-<li>(Bluetooth LE, BLE, marketed as Bluetooth Smart)</li>
+<li>Version Neon</li>
 </ul>
-<td><img src="http://www.eclipse.org/artwork/images/v2/logo-800x188.png" width="300"/></td>
+<td><img src="http://www.eclipse.org/artwork/images/v2/logo-800x188.png" width="400"/></td>
 </tr>
 </table>
 
