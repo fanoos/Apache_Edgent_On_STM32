@@ -56,7 +56,7 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <li>Version 1.2.0-incubating</li>
 <li>supported on Java 8 SE</li>
 </ul></td>
-<td><img src="https://4.bp.blogspot.com/-brgnjo5GUa0/WLhXuAwnQII/AAAAAAAAD88/oxL3WK0wiU8zRVDAKyt1sUo37VZLo3BrQCLcB/s1600/Android%2BLogo.png" width="200"/>
+<td><img src="https://edgent.apache.org/img/apache_logo.png" width="200"/>
 </td>
 <td>
 <h5>Firebase</h5>
