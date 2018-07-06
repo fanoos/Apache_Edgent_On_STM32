@@ -7,16 +7,16 @@ Edge analytics is the collection, processing, and analysis of data at the edge o
 # What is Apache Edgent?
 Apache Edgent is a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the continuous streams of data coming from equipment, vehicles, systems, appliances, devices and sensors of all kinds (for example, Raspberry Pis or smart phones). Working in conjunction with centralized analytic systems, Apache Edgent provides efficient and timely analytics across the whole IoT ecosystem: from the center to the edge.
 
-# Main functionalities
-<b>Heart Rate Device</b>:
+# Main Steps and Functionalities
+<b>Watson IoT platform</b>:
 <ul>
-<li>Scan Bluetooth Low Energy Devices</li>
-<li>Connect to Device</li>
+<li>Create an instance of the Watson IoT platform service.</li>
+<li>Register your device on the service and save the service connection details in a file.  We refer to this as the device configuration file.</li>
 </ul>
 
-<b>Monitoring Heart Rate</b>:
+<b>Connect To Sensor</b>:
 <ul>
-<li>Continuously monitoring heart rate</li>
+<li>Configure STM32 to connect and use Expansion Board.</li>
 <li>Check heart rate value and sends immediate alerts (Alarm,Call,SMS)</li>
 </ul>
 
