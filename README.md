@@ -1,8 +1,11 @@
-# What is Edge analytics?
+# What is Edge Analytics?
 Edge analytics is the collection, processing, and analysis of data at the edge of a network either at or close to a sensor, a network switch or some other connected device.
 
-# Our Project : Doc Hero Heart Rate Monitoring
+# Description of Project
 We use Apache Edgent to real-time analytics on the continuous streams of data coming from Environmental expansion board (X-Nucleo-IKS01A2) connected on STM32F401 Nucleo-64.
+
+# Apache Edgent
+Apache Edgent is a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the continuous streams of data coming from equipment, vehicles, systems, appliances, devices and sensors of all kinds (for example, Raspberry Pis or smart phones). Working in conjunction with centralized analytic systems, Apache Edgent provides efficient and timely analytics across the whole IoT ecosystem: from the center to the edge.
 
 # Main functionalities
 <b>Heart Rate Device</b>:
