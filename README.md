@@ -32,6 +32,18 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <li>Reading data from sensors and performing analytics on the data</li>
 </ul>
 
+<b>Send events</b>:
+<ul>
+<li>Send events stream to the IoT platform</li>
+<li>Use the IotpDevice class to send the events to the platform.</li>
+</ul>
+
+<b>Visualizing and monitoring application</b>:
+<ul>
+<li>Adding the console web app</li>
+<li>Use the the DevelopmentProvider class</li>
+</ul>
+
 # Architecture and Technology
 <table>
 <tr>
