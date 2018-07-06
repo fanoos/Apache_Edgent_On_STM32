@@ -4,6 +4,10 @@ We use Apache Edgent to real-time analytics on the continuous streams of data co
 # What is Edge Analytics?
 Edge analytics is the collection, processing, and analysis of data at the edge of a network either at or close to a sensor, a network switch or some other connected device.
 
+When you analyze on the edge, you can:
+* Reduce the amount of data that you transmit to your analytics server
+* Reduce the amount of data that you store
+
 # What is Apache Edgent?
 Apache Edgent is a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the continuous streams of data coming from equipment, vehicles, systems, appliances, devices and sensors of all kinds (for example, Raspberry Pis or smart phones). Working in conjunction with centralized analytic systems, Apache Edgent provides efficient and timely analytics across the whole IoT ecosystem: from the center to the edge.
 
@@ -47,11 +51,10 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 # Architecture and Technology
 <table>
 <tr>
-<td><h5>Android</h5>
+<td><h5>Apache Edgent</h5>
 <ul>
-<li>Minimum API 18</li>
-<li>Target API 25</li>
-<li>Compiled with API 25</li>
+<li>Version 1.2.0-incubating</li>
+<li>supported on Java 8 SE</li>
 </ul></td>
 <td><img src="https://4.bp.blogspot.com/-brgnjo5GUa0/WLhXuAwnQII/AAAAAAAAD88/oxL3WK0wiU8zRVDAKyt1sUo37VZLo3BrQCLcB/s1600/Android%2BLogo.png" width="200"/>
 </td>
