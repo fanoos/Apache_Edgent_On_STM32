@@ -59,7 +59,7 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <td><img src="https://edgent.apache.org/img/apache_logo.png" width="200"/>
 </td>
 <td>
-<h5>Firebase</h5>
+<h5>STM32F401</h5>
 <ul>
 <li>Firebase Realtime Database (Data is stored as JSON and synchronized in realtime to every connected client) </li>
 <li>Firebase Authentication (Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices)</li>
@@ -77,7 +77,7 @@ Realtime Graphing Solution</li>
 <td><img src="http://rxtx.qbang.org/wiki/skins/common/images/wikii.png" width="400" height="50"/>
 </td>
 <td>
-<h5>BLE</h5>
+<h5>Eclipse</h5>
 <ul>
 <li>Bluetooth LE Technology</li>
 <li>(Bluetooth LE, BLE, marketed as Bluetooth Smart)</li>
