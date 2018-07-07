@@ -120,11 +120,7 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 
 - Apache Edgent On STM32F401-Category Edgent Application [https://youtu.be/pyLKdrLl7r0]
 
-- Apache Edgent On STM32F401-Aggregation Edgent Application [https://youtu.be/EvwKW1WH4sQ]
-
-# Roadmap
-
-<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/RoadMap.JPG">
+- Apache Edgent On STM32F401-Aggregation Edgent Application [https://youtu.be/UlcH3mERDNo]
 
 # Team Members
 The team members are: Mostafa Ramezani, Soma Shekarchi.
