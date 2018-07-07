@@ -94,7 +94,7 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 
 # Hardware
 
-<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/polar_h7.png">
+<img src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/Hardware.png">
 
 # Screenshots
 
