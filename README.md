@@ -100,10 +100,10 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 
 <div style="width:100vw">
 
-<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-1.png" alt="Signin" border="1">
-<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-2.png" alt="ParentDashboard" border="1">
+<img width="45%" src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/EdgentCategoryConsol-1.png" alt="EdgentCategoryConsol" border="1">
+<img width="45%" src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/EdgentCategoryConsol-2.png" alt="EdgentCategoryConsol" border="1">
 
-<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-3.png" alt="MonitoringDashboard" border="1">
+<img width="45%" src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/EdgentCategoryConsol-3.png" alt="EdgentCategoryConsol" border="1">
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-4.png" alt="ScanDevice" border="1">
 
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-5.png" alt="MonitoringHeartRate" border="1">
