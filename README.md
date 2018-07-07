@@ -86,11 +86,9 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <table>
   <tr>
     <td>
-      <img src="https://firebase.google.com/docs/auth/images/auth-providers.png" width="600">
+      <img src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/Architecture.png" >
     </td>
-    <td>
-      <img src="https://cloud.google.com/solutions/mobile/images/overview-firebase-appengine-standard.png">
-    </td>
+   
   </tr>
 </table>
 
