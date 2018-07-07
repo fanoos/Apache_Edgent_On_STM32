@@ -118,9 +118,9 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 
 # Video Demo
 
-- Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
+- Apache Edgent On STM32F401-Category Edgent Application [https://youtu.be/pyLKdrLl7r0]
 
-- Run Alarm of High Heart Rate [https://youtu.be/EvwKW1WH4sQ]
+- Apache Edgent On STM32F401-Aggregation Edgent Application [https://youtu.be/EvwKW1WH4sQ]
 
 # Roadmap
 
