@@ -115,6 +115,11 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 
 <img width="45%" src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/EdgentAggregationWatsonState.png" alt="EdgentAggregationWatsonState" border="1">
 
+# Result of Research
+
+<img src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/Result%20(1).png">
+
+<img src="https://github.com/fanoos/Apache_Edgent_On_STM32/blob/master/Slide/Result%20(2).png">
 
 # Video Demo
 
