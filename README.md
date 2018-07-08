@@ -130,9 +130,7 @@ Links to our LinkedIn accounts:
 - Soma [LinkedIn: https://www.linkedin.com/in/somashekarchi/]
 
 # Slideshow links
-- First overview [https://github.com/fanoos/heart_rate_monitor/blob/master/Diabetes-heart-rate.pdf]
-- Feedback overview [https://github.com/fanoos/heart_rate_monitor/blob/master/Feedback-Heartrate%20Monitoring%20in%20Diabetic%20Children.pdf]
-- Final Presentation [https://github.com/fanoos/heart_rate_monitor/blob/master/DocHero-HeartRate-Monitor.pdf]
+- Result of research [https://www.slideshare.net/MostafaRamezani1/apache-edgent-with-stm32f401-to-watson-iot-platform]
 
 # Source code
-- Andriod App [https://github.com/fanoos/heart_rate_monitoring]
+- Andriod App [https://github.com/fanoos/Apache_Edgent_On_STM32/tree/master/Java_Project]
