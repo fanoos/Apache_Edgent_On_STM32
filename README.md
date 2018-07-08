@@ -63,6 +63,8 @@ Apache Edgent is a programming model and micro-kernel style runtime that can be 
 <ul>
 <li>STM32F401 microcontrollers</li>
 <li>X-NUCLEO-IKS01A2 expansion board</li>
+<li>STM32CubeMX initialization code generator</li>
+  
 </ul>
 <td><img src="https://percepio.com/wp-content/uploads/2015/08/stm32generic.png" width="400"/></td>
 </tr>
